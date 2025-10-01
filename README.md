@@ -1,50 +1,19 @@
+<h1 align="center">Hi 👋, I'm David Beckham</h1>
+<h3 align="center">A passionate frontend developer from Portugal</h3>
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/DavidMarinho2203"> 🔗
-  https://gitfollio.vercel.app/DavidMarinho2203
-</a>
+- 🌱 I’m currently learning **Nextjs Framework de React**
 
-<!-- GitFolio:start
-{
-  "gitfolio": "on",
-  "name": "David Beckham",
-  "email": "",
-  "tagline": "Front-end Developer",
-  "avatar_url": "https://avatars.githubusercontent.com/u/134319947?v=4",
-  "website": "https://meu-portfolio-8fm4.vercel.app/",
-  "githubUser": "DavidMarinho2203",
-  "linkedinUser": "https://www.linkedin.com/in/david-beckham-278644227/",
-  "about": "I'm a Systems Development Analysis student at UEPB and a Computer Technician at ECIT PJL. I'm a fellow on the Limite do Visível project, where I develop projects such as an Inventory Management System with libraries like Nextjs. I'm interested in web development and innovative projects that allow me to grow and develop professionally.",
-  "showStars": true,
-  "showFollowers": true,
-  "followers": 1,
-  "following": 2,
-  "themeId": "minimal",
-  "tech": [
-  "Nextjs",
-  "React",
-  "Tailwindcss",
-  "Javascript",
-  "NodeJs",
-  "Java"
-],
-  "projects": [
-  {
-    "id": 926825509,
-    "repoName": "projeto-otimize",
-    "url": "https://github.com/DavidMarinho2203/projeto-otimize",
-    "stars": 0,
-    "description": "Landing Page feito para uma empresa júnior.",
-    "image": "https://res.cloudinary.com/dh4qghklb/image/upload/v1759159101/otimizeconsultoriapbjr.netlify.app__hhfazu.png",
-    "techs": [
-      "Nextjs",
-      "React",
-      "JavaScript"
-    ],
-    "deploy": "https://otimizeconsultoriapbjr.netlify.app/",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/david-beckham-278644227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-beckham-278644227" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmarinho2203&show_icons=true&locale=en&layout=compact" alt="davidmarinho2203" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmarinho2203&show_icons=true&locale=en" alt="davidmarinho2203" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmarinho2203&" alt="davidmarinho2203" /></p>
   
