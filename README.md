@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+## Olá, meu nome é {seu nome}!
 
 ## Sobre mim
 
